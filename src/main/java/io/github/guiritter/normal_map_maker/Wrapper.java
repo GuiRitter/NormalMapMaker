@@ -1,4 +1,4 @@
-package io.github.guiritter.normalmapmaker;
+package io.github.guiritter.normal_map_maker;
 
 /**
  * Object that wraps another object so the outer one can be passed via parameter

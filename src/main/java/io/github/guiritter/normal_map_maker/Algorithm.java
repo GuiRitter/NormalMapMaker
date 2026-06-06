@@ -1,12 +1,12 @@
-package io.github.guiritter.normalmapmaker;
+package io.github.guiritter.normal_map_maker;
 
-import static io.github.guiritter.normalmapmaker.Polygon.maximumX;
-import static io.github.guiritter.normalmapmaker.Polygon.maximumY;
-import static io.github.guiritter.normalmapmaker.Polygon.minimumX;
-import static io.github.guiritter.normalmapmaker.Polygon.minimumY;
-import io.github.guiritter.normalmapmaker.style.Standard;
-import io.github.guiritter.normalmapmaker.style.Style;
-import io.github.guiritter.normalmapmaker.style.WarThunder;
+import static io.github.guiritter.normal_map_maker.Polygon.maximumX;
+import static io.github.guiritter.normal_map_maker.Polygon.maximumY;
+import static io.github.guiritter.normal_map_maker.Polygon.minimumX;
+import static io.github.guiritter.normal_map_maker.Polygon.minimumY;
+import io.github.guiritter.normal_map_maker.style.Standard;
+import io.github.guiritter.normal_map_maker.style.Style;
+import io.github.guiritter.normal_map_maker.style.WarThunder;
 import java.awt.image.BufferedImage;
 import java.awt.image.WritableRaster;
 import java.io.File;

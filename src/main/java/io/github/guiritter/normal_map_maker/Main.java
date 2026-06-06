@@ -1,20 +1,18 @@
-package io.github.guiritter.normalmapmaker;
+package io.github.guiritter.normal_map_maker;
 
-import io.github.guiritter.normalmapmaker.GUI.Components;
-import static io.github.guiritter.normalmapmaker.GUI.Components.INPUT_TEXT_FIELD;
-import static io.github.guiritter.normalmapmaker.GUI.Components.OUTPUT_TEXT_FIELD;
+import io.github.guiritter.normal_map_maker.GUI.Components;
+import static io.github.guiritter.normal_map_maker.GUI.Components.INPUT_TEXT_FIELD;
+import static io.github.guiritter.normal_map_maker.GUI.Components.OUTPUT_TEXT_FIELD;
 import java.io.File;
 import java.io.IOException;
 import static javax.swing.JOptionPane.ERROR_MESSAGE;
 import static javax.swing.JOptionPane.WARNING_MESSAGE;
 import org.j3d.loaders.InvalidFormatException;
-import static io.github.guiritter.normalmapmaker.Algorithm.IGNORED_INVALID;
-import static io.github.guiritter.normalmapmaker.Algorithm.IGNORED_UPRIGHT;
-import static io.github.guiritter.normalmapmaker.Algorithm.ERROR_NO_POLYGONS;
-import static io.github.guiritter.normalmapmaker.Algorithm.ERROR_NO_VALID;
-import static io.github.guiritter.normalmapmaker.GUI.ERROR_DIALOG_TITLE;
-import static io.github.guiritter.normalmapmaker.GUI.WARNING_DIALOG_TITLE;
-import static io.github.guiritter.normalmapmaker.Algorithm.ERROR_NO_SURFACES;
+import static io.github.guiritter.normal_map_maker.Algorithm.IGNORED_INVALID;
+import static io.github.guiritter.normal_map_maker.Algorithm.IGNORED_UPRIGHT;
+import static io.github.guiritter.normal_map_maker.Algorithm.ERROR_NO_POLYGONS;
+import static io.github.guiritter.normal_map_maker.Algorithm.ERROR_NO_VALID;
+import static io.github.guiritter.normal_map_maker.Algorithm.ERROR_NO_SURFACES;
 
 /**
  * Topmost class in the hierarchy.

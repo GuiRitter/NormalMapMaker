@@ -1,4 +1,4 @@
-package io.github.guiritter.normalmapmaker;
+package io.github.guiritter.normal_map_maker;
 
 import javafx.geometry.Point3D;
 

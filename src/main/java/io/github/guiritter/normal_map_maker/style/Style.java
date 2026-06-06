@@ -1,4 +1,4 @@
-package io.github.guiritter.normalmapmaker.style;
+package io.github.guiritter.normal_map_maker.style;
 
 import java.util.ArrayList;
 import java.util.List;

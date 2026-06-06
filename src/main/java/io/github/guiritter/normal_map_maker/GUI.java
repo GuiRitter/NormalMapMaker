@@ -1,4 +1,4 @@
-package io.github.guiritter.normalmapmaker;
+package io.github.guiritter.normal_map_maker;
 
 import java.awt.Font;
 import java.awt.GridBagConstraints;

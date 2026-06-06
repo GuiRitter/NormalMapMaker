@@ -1,13 +1,13 @@
-package io.github.guiritter.normalmapmaker;
+package io.github.guiritter.normal_map_maker;
 
-import io.github.guiritter.normalmapmaker.style.Style;
+import io.github.guiritter.normal_map_maker.style.Style;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 /**
  * Styles combo box item that links
- * {@link io.github.guiritter.normalmapmaker.style.Style} to its
+ * {@link io.github.guiritter.normal_map_maker.style.Style} to its
  * {@link java.lang.String} representation.
  * @author Guilherme Alan Ritter
  */
